@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,600;1,900&display=swap');
+
+*{
+    
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    
+ }
+/* this is must Add in all Template */
+.navbar-nav li{
+    padding-left: 20px;
+}
+
+.navbar-collapse{
+    padding-left:35px;
+}
+
+.footer{
+    background-color:rgb(44, 44, 44);
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top:5px;
+}
+
+/* to here */
+
+.row h1{
+    text-align: center;
+    border-bottom:1px solid black;
+    font-family: 'Nunito Sans', sans-serif;
+}
